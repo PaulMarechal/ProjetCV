@@ -2,9 +2,11 @@
 
 Projet CV : 
   - ToDo list 
-  - Changer les informations du CV 
-  - Recherche d'utilisateurs GIT 
+  - Modifier le contenu du CV avec un espace admin 
+  - Recherche d'utilisateurs GitHub 
   - Quizz
-  - lecteur de musique avec interface 2D 
+  - Lecteur MP3 ( avec barre d'oscillation 2D) 
+  - Thème jour / nuit
   
   Projet CV réalisé en HTML5, CSS3 et JS 
+
